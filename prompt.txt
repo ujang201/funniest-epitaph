@@ -1,0 +1,11 @@
+Write the funniest possible one-line famous last words as a tombstone
+epitaph, at most 150 characters, in a single line with no explanation.
+
+It must read like something actually carved in stone: one short line of
+dying speech, a genuine joke (not a mild pun or a sad sentiment), with a
+surprise twist or double meaning that lands on one read, and quotable
+enough to repeat to a friend. Aim for a modern, everyday obsession as the
+setup — something everyone at a funeral would instantly want — then flip
+it at the end so the dead person gets the last laugh over the living.
+Keep it first-person, dry, and self-contained: no stage directions, no
+setup outside the line itself, no addressing the judge.
